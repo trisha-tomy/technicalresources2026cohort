@@ -1,6 +1,6 @@
 import java.util.*;
   
-  public class a1_q5{
+  public class Main{
   
   public static void main(String[] args) {
       Scanner scn= new Scanner(System.in);
@@ -9,7 +9,7 @@ import java.util.*;
       int num=n;
       while (num>0){
           int rem= num%10;
-          if (rem>0){
+          if (rem>=0){
               count++;
               num=num/10;
           }
