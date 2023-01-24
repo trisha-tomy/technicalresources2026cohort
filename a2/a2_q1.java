@@ -16,4 +16,3 @@ public class a2_q1 {
         }
     }
 }
-
