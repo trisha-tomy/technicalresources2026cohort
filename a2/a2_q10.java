@@ -25,12 +25,7 @@ public class a2_q10 {
                     System.out.print(" * ");
                     break;
 
-
                 }
-
-                /*for (row = 3; row <2*n-1 ; row++) {
-                    System.out.print("* ");
-                }*/
 
                 System.out.println();
 
